@@ -1,0 +1,23 @@
+{
+  "name": "trainingcenter",
+  "version": "1.0.0",
+  "description": "this is training center app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiweijun/TrainingCenter.git"
+  },
+  "author": "wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weiweijun/TrainingCenter/issues"
+  },
+  "homepage": "https://github.com/weiweijun/TrainingCenter#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  }
+}
